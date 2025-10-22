@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "875fa7cc49da7a9d",
+    "type": "split",
+    "children": [
+      {
+        "id": "b8f6740fdac9f1d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e39243b4ba1ee2e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "artwork/īrιd · εscΣNc3/īrιd, (en)crytpid lores of becoming.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "īrιd, (en)crytpid lores of becoming"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "27f4e4ad3d6e0c33",
+    "type": "split",
+    "children": [
+      {
+        "id": "cff98d47f67048ec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a15651313f84062",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "fa177edd1ceb782d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "53ea98d402ae24d9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c74bf299c2bb1799",
+    "type": "split",
+    "children": [
+      {
+        "id": "6faf39cd14b0ac7f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "647ae1b7e1526bc8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "artwork/īrιd · εscΣNc3/īrιd, (en)crytpid lores of becoming.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for īrιd, (en)crytpid lores of becoming"
+            }
+          },
+          {
+            "id": "11acb16e3ce43803",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "artwork/īrιd · εscΣNc3/īrιd, (en)crytpid lores of becoming.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from īrιd, (en)crytpid lores of becoming"
+            }
+          },
+          {
+            "id": "6a53deb4618a055c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "bfc608025365772d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "artwork/īrιd · εscΣNc3/īrιd, (en)crytpid lores of becoming.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of īrιd, (en)crytpid lores of becoming"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "e39243b4ba1ee2e8",
+  "lastOpenFiles": [
+    "artwork/īrιd · εscΣNc3/glitch as iridescent mutation.md",
+    "artwork/īrιd · εscΣNc3/īrιd, (en)crytpid lores of becoming.md",
+    "artwork/īrιd · εscΣNc3/crossing the iridescent threshold.md",
+    "artwork/īrιd · εscΣNc3/the science of iridescence and diffraction.md",
+    "artwork/īrιd · εscΣNc3/non-binary hybridities, monsters, and toxic bodies.md",
+    "artwork/īrιd · εscΣNc3/īrιd.md",
+    "artwork/īrιd · εscΣNc3/non-binary.md",
+    "artwork/īrιd · εscΣNc3/isle rock and the politics of conservation.md",
+    "defining the technogarden/setting the stage through science fiction.md",
+    "defining the technogarden/green architecture movements.md",
+    "artwork/SOS/hydroponics.md",
+    "artwork/SOS/making-with.md",
+    "artwork/SOS/the symbiotic proposition.md",
+    "artwork/SOS/the time problem.md",
+    "artwork/SOS/the cultural relevance of orchids.md",
+    "artwork/SOS/algorithmic design.md",
+    "artwork/alter_florescence/an alteration toolkit.md",
+    "artwork/alter_florescence/algorithmic disruption.md",
+    "artwork/alter_florescence/becoming gardener-scientist.md",
+    "artwork/alter_florescence/alter agents and multispecies alliance.md",
+    "artwork/alter_florescence/genetic algorithms, genes, and game engines.md",
+    "artwork/alter_florescence/the american waterwillow.md",
+    "artwork/SOS v.0.1.0 (Symbiotic Orchid Search), 2025..md",
+    "artwork/alter_florescence, 2024..md",
+    "defining the technogarden/queerfeminist technoscience.md",
+    "artwork/īrιd · εscΣNc3",
+    "artwork/SOS",
+    "artwork/alter_florescence",
+    "artwork",
+    "defining the technogarden/crash course in algorithmic + computational plant modelling.md",
+    "artists",
+    "defining the technogarden"
+  ]
+}
